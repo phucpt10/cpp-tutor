@@ -1,0 +1,30 @@
+Evaluate the coding challenge part of a boss battle.
+
+Topic: {topic}
+Boss Battle Title: {boss_title}
+Coding Challenge Title: {coding_title}
+Coding Challenge Description:
+{coding_description}
+
+Expected Concepts:
+{expected_concepts}
+
+Student Code:
+```cpp
+{submitted_code}
+```
+
+Requirements:
+- Return JSON only
+- Score from 0 to 100
+- Pass means score >= 80
+- Be strict but supportive
+
+Schema:
+{
+  "score": 0,
+  "passed": false,
+  "feedback": "",
+  "strengths": [""],
+  "improvements": [""]
+}

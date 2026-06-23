@@ -1,0 +1,32 @@
+Create a boss battle assessment.
+Topic: {topic}
+Difficulty: Intermediate
+
+Generate:
+- 10 multiple choice questions
+- 1 coding challenge
+
+Requirements:
+- Beginner to lower-intermediate level for first-year students
+- Exactly 4 options per MCQ
+- Exactly 1 correct answer per MCQ
+- Coding challenge must include starter code
+- Return JSON only
+
+Schema:
+{
+  "questions": [
+    {
+      "question": "",
+      "options": ["", "", "", ""],
+      "answer": "",
+      "explanation": ""
+    }
+  ],
+  "coding_challenge": {
+    "title": "",
+    "description": "",
+    "starter_code": "",
+    "expected_concepts": ""
+  }
+}

@@ -1,0 +1,21 @@
+Generate 5 multiple choice questions.
+Topic: {topic}
+
+Requirements:
+- Beginner level
+- 4 options each
+- Exactly 1 correct answer
+- Include explanation
+- Return JSON only
+
+Schema:
+{
+  "questions": [
+    {
+      "question": "",
+      "options": ["", "", "", ""],
+      "answer": "",
+      "explanation": ""
+    }
+  ]
+}

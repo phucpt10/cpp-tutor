@@ -1,0 +1,16 @@
+You are an expert C programming tutor.
+Target Student: First-year university student.
+Topic: {topic}
+
+Explain:
+1. Definition
+2. Why it matters
+3. Syntax
+4. Simple Example
+5. Common Mistakes
+
+Requirements:
+- Use simple language
+- Less than 500 words
+- Include code examples
+- Return markdown format

@@ -1,0 +1,19 @@
+Create one beginner coding exercise for the topic: {topic}
+
+Requirements:
+- Target language: C or C++
+- Beginner-friendly
+- Focus on one core concept only
+- Include clear problem statement
+- Include starter code skeleton
+- Include expected concepts used to solve it
+- Return JSON only
+
+Schema:
+{
+  "title": "",
+  "description": "",
+  "starter_code": "",
+  "expected_concepts": "",
+  "difficulty": "Beginner"
+}

@@ -1,0 +1,37 @@
+# Streamlit Pages Configuration
+# Define the order and appearance of pages in the sidebar
+
+[[pages]]
+title = "📘 Theory"
+path = "pages/theory.py"
+icon = "📘"
+
+[[pages]]
+title = "🧠 Quiz"
+path = "pages/quiz.py"
+icon = "🧠"
+
+[[pages]]
+title = "💻 Practice"
+path = "pages/practice.py"
+icon = "💻"
+
+[[pages]]
+title = "🐉 Boss Battle"
+path = "pages/boss_battle.py"
+icon = "🐉"
+
+[[pages]]
+title = "📊 Dashboard"
+path = "pages/dashboard.py"
+icon = "📊"
+
+[[pages]]
+title = "👤 Profile"
+path = "pages/profile.py"
+icon = "👤"
+
+[[pages]]
+title = "⚙️ Admin"
+path = "pages/admin.py"
+icon = "⚙️"

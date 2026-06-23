@@ -1,0 +1,28 @@
+Evaluate the following student C/C++ submission.
+
+Topic: {topic}
+Exercise Title: {title}
+Exercise Description:
+{description}
+
+Expected Concepts:
+{expected_concepts}
+
+Student Code:
+```cpp
+{submitted_code}
+```
+
+Requirements:
+- Evaluate beginner-level correctness and concept usage
+- Be strict but encouraging
+- Return JSON only
+
+Schema:
+{
+  "score": 0,
+  "passed": false,
+  "feedback": "",
+  "strengths": [""],
+  "improvements": [""]
+}
